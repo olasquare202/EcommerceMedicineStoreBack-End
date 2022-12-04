@@ -1,1 +1,2 @@
-# EMedicineBE
+# EMedicineBackEndWebAPI
+This is a Back-end of an EMedicine Application. It is an online medicine store to buy and manage medicines. Its also have Admin pannel where the admin can add medines, check orders and approve orders. It was created with an API and CRUD operation was performed on it. All the end points were tested using Swagger. Microsoft SQL Server Management was used for the database. Technologies used are: C#, Entityt Framework Core, ASP.NETCore, API, Swagger and, Ms SQL Server Management.
